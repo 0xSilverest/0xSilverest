@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 I'm a computer science student and I don't know what I'm doing.
 But I'm particularly talented at making spaghetti code, Oh wait, that means I don't what I'm doing oh well...
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silverest12)](https://github.com/Silverest12/Silverest12)
+
 ## I can code in :
 <p>
  <img src="./logos/javaLogo.png" height='60px' margin='5px' alt="Java">
