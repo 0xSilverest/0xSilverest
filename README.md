@@ -20,12 +20,12 @@ But I'm particularly talented at making spaghetti code, Oh wait, that means I do
 
 ## I can code in :
 <p>
- <img src="./logos/javaLogo.png" height='60px' alt="Java">
- <img src="./logos/scalaLogo.png" height='70px' alt="Scala">
+ <img src="./logos/javaLogo.png" height='60px' margin='5px' alt="Java">
+ <img src="./logos/scalaLogo.png" height='70px' margin='5px' alt="Scala">
 </p>
 
 ## And At the moment learning 
-<img src="./logos/haskell.png" height='60px' alt="Haskell">
+<img src="./logos/haskell.png" height='55px' alt="Haskell">
 
 ## Reach me :
 📫 Gmail: <a href="t.metougui@gmail.com">t.metougui@gmail.com</a>
