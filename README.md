@@ -25,7 +25,7 @@ But I'm particularly talented at making spaghetti code, Oh wait, that means I do
 </p>
 
 ## And At the moment learning 
-<img src="./logos/haskell.png" height='55px' alt="Haskell">
+<img src="./logos/haskell.png" height='50px' alt="Haskell">
 
 ## Reach me :
 📫 Gmail: <a href="t.metougui@gmail.com">t.metougui@gmail.com</a>
