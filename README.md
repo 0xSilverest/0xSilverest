@@ -19,8 +19,10 @@ I'm a computer science student and I don't know what I'm doing.
 But I'm particularly talented at making spaghetti code, Oh wait, that means I don't what I'm doing oh well...
 
 ## I can code in :
-<img src="./logos/javaLogo.png" height='60px' alt="Java" style="vertical-align=top; margin:5px">
-<img src="./logos/scalaLogo.png" height='60px' alt="Scala" style="vertial-align=top; margin:5px">
+<p>
+ <img src="./logos/javaLogo.png" height='60px' alt="Java">
+ <img src="./logos/scalaLogo.png" height='60px' alt="Scala">
+</p>
 
 ## And At the moment learning 
 <img src="./logos/haskell.png" height='60px' alt="Haskell">
