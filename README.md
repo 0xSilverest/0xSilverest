@@ -26,8 +26,8 @@ Or here's <a href="https://www.linkedin.com/in/taha-metougui">LinkedIn</a>
 
 ## I can code in :
 <p>
- <img src="./logos/javaLogo.png" height='60px' margin='5px' alt="Java">
- <img src="./logos/scalaLogo.png" height='70px' margin='5px' alt="Scala">
+ <img src="./logos/javaLogo.png" height='60px' style="margin:5px" alt="Java">
+ <img src="./logos/scalaLogo.png" height='70px' style="margin:5px" alt="Scala">
 </p>
 
 ## And At the moment learning 
@@ -35,6 +35,6 @@ Or here's <a href="https://www.linkedin.com/in/taha-metougui">LinkedIn</a>
 
 ## For Editors I use this bad boys:
 <p>
-  <img src="./logos/IJlogo.png" height='60px' margin='5px' alt="IntelliJ Idea">
-  <img src="./logos/VimLogo.png" height='60px' margin='5px' alt="Vim">
+  <img src="./logos/IJlogo.png" height='60px' style="margin:5px" alt="IntelliJ Idea">
+  <img src="./logos/VimLogo.png" height='60px' style="margin:5px" alt="Vim">
 </p>
