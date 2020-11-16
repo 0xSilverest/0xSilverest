@@ -19,11 +19,11 @@ I'm a computer science student and I don't know what I'm doing.
 But I'm particularly talented at making spaghetti code, Oh wait, that means I don't what I'm doing oh well...
 
 ## I can code in :
-<img src="./logos/javaLogo.png" alt="Java"/>
-<img src="./logos/scalaLogo.png" alt="Scala"/>
+<img src="./logos/javaLogo.png" size='40px' alt="Java">
+<img src="./logos/scalaLogo.png" size='40px' alt="Scala">
 
 ## And At the moment learning 
-<img src="./logos/haskell.png" alt="Haskell"/>
+<img src="./logos/haskell.png" size='40px' alt="Haskell"/>
 
 ## Reach me :
 📫 Gmail: <a href="t.metougui@gmail.com">t.metougui@gmail.com</a>
