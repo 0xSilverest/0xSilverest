@@ -15,7 +15,7 @@ Or here's <a href="https://www.linkedin.com/in/taha-metougui">LinkedIn</a>
  <img src="./logos/scalaLogo.png" height='70px' style="margin:10px" alt="Scala">
 </p>
 
-## And At the moment learning 
+## And At the moment learning :
 <img src="./logos/haskell.png" height='50px' alt="Haskell">
 
 ## For Editors I use this bad boys:
