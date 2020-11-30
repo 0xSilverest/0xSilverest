@@ -1,7 +1,7 @@
 ### Hi, I'm Metougui Taha
 
 I'm a computer science student and I don't know what I'm doing.
-But I'm particularly talented at making spaghetti code, Oh wait, that means I don't what I'm doing oh well...
+But I'm particularly talented at making spaghetti code, Oh wait, that means I don't know what I'm doing oh well...
 
 ## Reach me :
 📫 Gmail: <a href="t.metougui@gmail.com">t.metougui@gmail.com</a>
