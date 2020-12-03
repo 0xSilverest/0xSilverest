@@ -18,7 +18,7 @@ Or here's <a href="https://www.linkedin.com/in/taha-metougui">LinkedIn</a>
 ## And At the moment learning :
 <img src="./logos/haskell.png" height='50px' alt="Haskell">
 
-## For Editors I use this bad boys:
+## For Editors I use this bad boys :
 <p>
   <img src="./logos/IJlogo.png" height='60px' style="margin:10px" alt="IntelliJ Idea">
   <img src="./logos/VimLogo.png" height='60px' style="margin:10px" alt="Vim">
