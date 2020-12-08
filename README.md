@@ -7,7 +7,7 @@ But I'm particularly talented at making spaghetti code, Oh wait, that means I do
 📫 Gmail: <a href="t.metougui@gmail.com">t.metougui@gmail.com</a>
 Or here's <a href="https://www.linkedin.com/in/taha-metougui">LinkedIn</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silverest12&hide=html)](https://github.com/Silverest12/Silverest12)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silverest12&hide=html&theme=dracula)](https://github.com/Silverest12/Silverest12)
 
 ## I can code in :
 <p>
