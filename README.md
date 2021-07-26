@@ -7,7 +7,7 @@ but it's a code that supposedly works theoretically.
 📫 Gmail: <a href="t.metougui@gmail.com">t.metougui@gmail.com</a>
 Or here's <a href="https://www.linkedin.com/in/taha-metougui">LinkedIn</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silverest12&hide=html,shell,css,vim%20script&theme=dracula)](https://github.com/Silverest12/Silverest12)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silverest12&hide=html,shell,css,vim%20script,lua&theme=dracula)](https://github.com/Silverest12/Silverest12)
 
 ## I can code in (I guess):
 <p>
