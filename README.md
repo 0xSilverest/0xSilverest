@@ -6,7 +6,6 @@ Crafting code so beautiful, it'll make your compiler weep tears of joy (or possi
 Remember: In the world of coding, we don't make mistakes. We create "surprise features" and "impromptu stress tests" for our users.
 ### Summon Me:
 - By electronic owl: [t.metougui@gmail.com](mailto:t.metougui@gmail.com)
-- By crystal ball: [LinkedIn](https://www.linkedin.com/in/taha-metougui)
 
 disclaimer: for crystal ball results not guaranteed, battery not included
 
